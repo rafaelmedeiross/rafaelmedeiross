@@ -1,5 +1,3 @@
-<img src="{https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white}" />
-[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rafaelmedeiross/])]([(https://www.linkedin.com/in/rafaelmedeiross/)])
 
 ### Hi there 👋
 
