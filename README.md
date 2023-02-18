@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmedeiross)](https://github.com/anuraghazra/github-readme-stats)
 
-![image]((https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmedeiross))
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmedeiross)
 
 
 <!--
