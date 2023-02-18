@@ -4,6 +4,7 @@
 
 
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rafaelmedeiross" frameborder="0"></iframe>
+<img src="https://ionicabizau.github.io/github-profile-languages/api.html?rafaelmedeiross" />
 
 <!--
 **rafaelmedeiross/rafaelmedeiross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
