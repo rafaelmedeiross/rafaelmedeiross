@@ -2,8 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmedeiross)](https://github.com/anuraghazra/github-readme-stats)
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmedeiross)
-
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rafaelmedeiross" frameborder="0"></iframe>
 
 <!--
 **rafaelmedeiross/rafaelmedeiross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
