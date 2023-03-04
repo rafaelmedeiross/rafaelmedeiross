@@ -1,6 +1,3 @@
-<a href="https://www.linkedin.com/in/rafaelmedeiross/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React.js" src="https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white" />
@@ -17,3 +14,6 @@
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rafaelmedeiross&count_private=true&show_icons=true&theme=vue" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmedeiross&layout=compact&theme=vue" />
 </div>
+<a href="https://www.linkedin.com/in/rafaelmedeiross/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
