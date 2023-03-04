@@ -1,10 +1,8 @@
 <a href="https://www.linkedin.com/in/rafaelmedeiross/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-Anurag's GitHub stats
-
-Top Langs
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmedeiross&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmedeirosse&layout=compact&theme=dark)
 <br/>
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
