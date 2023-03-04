@@ -8,7 +8,7 @@
 
 ### Contact me
 
-- 📱 Phone: +55 (14)982316988
+- 📱 Phone: +55 (14) 982316988
 - 📧 Email: rafael.medeiros@msn.com
 
 ### Technologies & Tools
