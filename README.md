@@ -28,6 +28,6 @@
 ### GitHub Stats
 
 <div align="left">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rafaelmedeiross&count_private=true&show_icons=true&theme=transparent" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmedeiross&layout=compact&theme=transparent" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rafaelmedeiross&count_private=true&show_icons=true&theme=transparent" width="400" height="200" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmedeiross&layout=compact&theme=transparent" width="400" height="200"/>
 </div>
